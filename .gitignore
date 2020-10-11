@@ -6,3 +6,5 @@ faraneshenv/
 blog/migrations
 #database
 db.sqlite3
+
+files/
